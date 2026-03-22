@@ -1,0 +1,35 @@
+# Private keys — NEVER commit these
+*.priv
+
+# Decrypted output files
+*.decrypted
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Docker
+.docker/
+
+# OS
+.DS_Store
+Thumbs.db
+nist-vectors/
+.coverage
+nist-vectors/
+backup/
+tests/vectors/expectedResults.json
+tests/vectors/internalProjection.json
+tests/vectors/prompt.json
+tests/vectors/registration.json
+tests/vectors/validation.json
