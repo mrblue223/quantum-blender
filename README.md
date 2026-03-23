@@ -3,7 +3,7 @@
 <div align="center">
 
 
-![CI](https://github.com/YOUR_USERNAME/quantum-blender/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/mrblue223/quantum-blender/actions/workflows/ci.yml/badge.svg)
 ![NIST FIPS 203](https://img.shields.io/badge/NIST-FIPS%20203%20ML--KEM-0057b7)
 ![NIST FIPS 204](https://img.shields.io/badge/NIST-FIPS%20204%20ML--DSA-0057b7)
 ![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue?logo=python)
