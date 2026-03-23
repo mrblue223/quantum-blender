@@ -1,38 +1,5 @@
 # 🌀 Quantum Blender
 
-## Table of Contents
-
-- [What Is This?](#what-is-this)
-- [Algorithms](#algorithms)
-- [Why Hybrid?](#why-hybrid)
-- [Installation](#installation)
-  - [Requirements](#requirements)
-  - [Install](#install)
-  - [Verify](#verify)
-- [Quick Start](#quick-start)
-  - [1. Generate your identity](#1-generate-your-identity)
-  - [2. Encrypt a file](#2-encrypt-a-file)
-  - [3. Decrypt a file](#3-decrypt-a-file)
-  - [4. Multi-recipient encryption](#4-multi-recipient-encryption)
-  - [5. Secure file shredding](#5-secure-file-shredding)
-- [Commands](#commands)
-  - [keygen](#keygen--generate-a-keypair)
-  - [encrypt](#encrypt--encrypt-a-file)
-  - [decrypt](#decrypt--decrypt-a-file)
-  - [sign](#sign--sign-a-file)
-  - [verify](#verify--verify-a-signature)
-  - [fingerprint](#fingerprint--show-a-keys-fingerprint)
-  - [shred](#shred--securely-wipe-files)
-- [How It Works](#how-it-works)
-  - [Encryption pipeline](#encryption-pipeline)
-  - [Decryption pipeline](#decryption-pipeline)
-  - [Key protection at rest](#key-protection-at-rest)
-  - [.qb file format](#qb-file-format)
-- [Testing](#testing)
-- [Security Notes](#security-notes)
-- [NIST Standards References](#nist-standards-references)
-- [License](#license)
-
 <div align="center">
 
 ![CI](https://github.com/YOUR_USERNAME/quantum-blender/actions/workflows/ci.yml/badge.svg)
